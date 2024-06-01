@@ -5,4 +5,5 @@ function refuel()
 	
 end
 
+refuel()
 print(fuel_level)
