@@ -1,2 +1,5 @@
 function refuel()
-	turtle.getFuelLevel()
+	local fuel_level = turtle.getFuelLevel()
+end
+
+refuel()
